@@ -73,7 +73,7 @@ const Profile = () => {
                 {" "}
                 {Inituser.username.toUpperCase()}{" "}
               </ProfileContentTitle>
-              <ProfileText> Join Date: {Inituser.joinDate} </ProfileText>
+              <ProfileText> Join Date: 27 July 2023 </ProfileText>
               <ProfileText>Seen Movies: {seenMovies.length} </ProfileText>
               <ProfileText>Favorite Movies: {favorites.length} </ProfileText>
 
